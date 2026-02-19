@@ -1,0 +1,5 @@
+{
+  "name": "Database Evolution Hub",
+  "description": "An interactive web application exploring the history of DBMS, popularity trends, and a deep technical comparison between MariaDB and MySQL.",
+  "requestFramePermissions": []
+}
